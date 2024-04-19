@@ -55,7 +55,6 @@ module.exports = {
         market: "url('../public/market.gif')",
         location: "url('../public/location.gif')",
         akram: "url('../public/akram.gif')",
-        akram1: "url('../public/Ministry of Justice.gif')",
         swat1: "url('../public/swat1.gif')",
         Server: "url('../public/Server.gif')",
         akram55: "url('../public/akram55.gif')",
