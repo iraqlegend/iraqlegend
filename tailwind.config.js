@@ -48,7 +48,7 @@ module.exports = {
         scenarios: "url('../public/scenarios.gif')",
         gangs: "url('../public/gangs.gif')",
         heros: "url('../public/heros.gif')",
-        city: "url('../public/city.gif')",
+        city: "url('../public/city.jfif')",
         prime: "url('../public'/prime.gif')",
         verifed: "url('../public/verifed.gif')",
         discord: "url('../public/discord.gif')",
