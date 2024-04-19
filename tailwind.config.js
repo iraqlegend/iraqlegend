@@ -50,6 +50,7 @@ module.exports = {
         heros: "url('../public/heros.gif')",
         city: "url('../public/city.jfif')",
         prime: "url('../public'/prime.gif')",
+        akram1: "url('../public/Ministry of Justice.gif')",
         verifed: "url('../public/verifed.gif')",
         discord: "url('../public/discord.gif')",
         market: "url('../public/market.gif')",
